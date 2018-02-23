@@ -1,2 +1,11 @@
 # hw3-4
-<https://docs.google.com/forms/d/e/1FAIpQLSfF8itL9H4ZYgzCzZFRXnO3wMd5O2vngN1zDNHhxnaSi6Ek-w/viewform?usp=sf_lin>
+<https://docs.google.com/forms/d/e/1FAIpQLSfF8itL9H4ZYgzCzZFRXnO3wMd5O2vngN1zDNHhxnaSi6Ek-w/viewform?usp=sf_lin> ← Это ссылка на форму
+
+<https://docs.google.com/spreadsheets/d/1Bescr5Bw6WEBHmCl0-0klOZD8Fz2eUn7pdWS4Pe_P44/edit#gid=1534868913> 
+
+
+## Тема моего опроса: "Политическая сфера общественной жизни" ## 
+------
+Цель-определить заинтересованность граждан  политической жизнью; установить, насколько социум удовлетворен  политической ситуацией в стране , и что бы  каждому хотелось изменить . Также, в преддверии выборов  узнать, кто из кандидатов  наиболее популярен среди населения. 
+
+Всего приняло участие 28 человек. 
